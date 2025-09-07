@@ -1,0 +1,25 @@
+# STM32CubeIDE / Eclipse
+.settings/
+.metadata/
+*.launch
+*.pydevproject
+*.cproject
+*.project
+
+# Build output
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.lst
+*.axf
+
+# Backup / temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+*~
+
