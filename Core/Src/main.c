@@ -44,6 +44,14 @@
 
 /* USER CODE BEGIN PV */
 
+//***************************************************************
+//Universidad del Valle de Guatemala
+//Electrónica Digital 2
+//Autor: Héctor Alejandro Martínez Guerra
+//Hardware: STM32
+//LAB5
+//***************************************************************
+//***************************************************************
 
 // countdown_busy=1 durante semáforo; ignoras pulsos.
 // race_active=0 antes del semáforo y tras ganador; ignoras pulsos.
